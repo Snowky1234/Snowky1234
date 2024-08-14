@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil!🔥
 - Eu estou me desenvolvendo na liguagem JavaScript
 - Utilizo este espaço para me organizar para projetos e compartilhamento de projetos desenvolvidos por mim
 
- ###Você pode entrar em contato comigo pelo email📧:###
+ Você pode entrar em contato comigo pelo email📧:
  
  00001134390828SP@al.educacao.sp.gov.br
 
