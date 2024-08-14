@@ -1,16 +1,13 @@
-## Hi there 👋
+Bem-vindo ao meu perfil!🔥
 
-<!--
-**Snowky1234/Snowky1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Meu nome é Carlos Eduardo**
 
-Here are some ideas to get you started:
+- Eu estou estudando na [Alura](https://www.alura.com.br)
+- Eu estou me desenvolvendo na liguagem JavaScript
+- Utilizo este espaço para me organizar para projetos e compartilhamento de projetos desenvolvidos por mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ###Você pode entrar em contato comigo pelo email📧:
+ 
+ 00001134390828SP@al.educacao.sp.gov.br
+
+ ![](https://tenor.com/pt-PT/view/cat-cat-face-giga-chad-chad-gif-940721850618971211)
