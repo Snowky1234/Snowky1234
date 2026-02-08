@@ -1,9 +1,8 @@
 Bem-vindo ao meu perfil!🔥
 
 **Meu nome é Carlos Eduardo**
-
-- Eu estou estudando na [Alura](https://www.alura.com.br)
-- Eu estou me desenvolvendo na liguagem JavaScript
+- Estudo numa escola Pei chamada Dom Miguel Kruse (Cursando ciencia de dados em python)
+- Eu estou me desenvolvendo na liguagem Python
 - Utilizo este espaço para me organizar para projetos e compartilhamento de projetos desenvolvidos por mim
 
  Você pode entrar em contato comigo pelo email📧:
